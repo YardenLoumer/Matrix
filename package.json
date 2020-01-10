@@ -1,0 +1,16 @@
+{
+  "name": "Matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Matrix.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.0",
+    "should": "^13.2.3"
+  }
+}
